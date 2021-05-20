@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1020462913873",
+    "project_id": "writereadandrecview",
+    "storage_bucket": "writereadandrecview.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020462913873:android:de006cf6b835f658e89b70",
+        "android_client_info": {
+          "package_name": "com.example.writereadrecyclerview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020462913873-i12ujol1u8m41qm254fmfm11tdogocqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOi0wUta-1CHjFImrcUij8nIcpVHdD2cU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020462913873-i12ujol1u8m41qm254fmfm11tdogocqd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
